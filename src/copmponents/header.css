@@ -1,0 +1,47 @@
+.sliderOne{
+    background-image:  linear-gradient(to right,
+    #1e3737, #3856561c),  url("https://images.pexels.com/photos/8084709/pexels-photo-8084709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"),linear-gradient(#eb01a5, #d13531);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+}
+.sliderTwo{
+    background-image:  linear-gradient(to right,
+    #1e3737, #3856561c), 
+                      url(
+'https://images.pexels.com/photos/1406864/pexels-photo-1406864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+}
+.sliderThree{
+    background-image:linear-gradient(to right,
+    #1e3737, #3856561c),  url("https://images.pexels.com/photos/5333680/pexels-photo-5333680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+}
+.sliderFour{
+    background-image:linear-gradient(to right,
+    #1e3737, #3856561c),  url("https://images.pexels.com/photos/11678426/pexels-photo-11678426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+}
+.sliderFive{
+    background-image:linear-gradient(to right,
+    #1e3737, #3856561c),  url("https://images.pexels.com/photos/15897036/pexels-photo-15897036/free-photo-of-smiling-woman-with-basket-working-on-plantation.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position:  center;
+}
