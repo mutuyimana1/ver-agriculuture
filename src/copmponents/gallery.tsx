@@ -1,42 +1,40 @@
-import React from 'react'
-
 const Gallery = () => {
     const data = [
         {
           imageLink:
-            "https://images.unsplash.com/photo-1499696010180-025ef6e1a8f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "https://images.pexels.com/photos/4090605/pexels-photo-4090605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1432462770865-65b70566d673?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+            "https://images.pexels.com/photos/7457178/pexels-photo-7457178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2560&q=80",
+            "https://images.pexels.com/photos/383605/pexels-photo-383605.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+            "https://images.pexels.com/photos/11534647/pexels-photo-11534647.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2762&q=80",
+            "https://images.pexels.com/photos/19661364/pexels-photo-19661364/free-photo-of-man-picking-up-tomatoes-in-a-market.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=loadk",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1682407186023-12c70a4a35e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
+            "https://images.pexels.com/photos/16689047/pexels-photo-16689047/free-photo-of-people-working-at-a-food-production.jpeg?auto=compress&cs=tinysrgb&w=600",
         },
         {
           imageLink:
-            "https://demos.creative-tim.com/material-kit-pro/assets/img/examples/blog5.jpg",
+            "https://images.pexels.com/photos/18970100/pexels-photo-18970100/free-photo-of-woman-working-on-plantation.jpeg?auto=compress&cs=tinysrgb&w=600",
         },
         {
           imageLink:
-            "https://material-taillwind-pro-ct-tailwind-team.vercel.app/img/content2.jpg",
+            "https://images.pexels.com/photos/11588042/pexels-photo-11588042.jpeg?auto=compress&cs=tinysrgb&w=600",
         },
         {
           imageLink:
-            "https://images.unsplash.com/photo-1620064916958-605375619af8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1493&q=80",
+            "https://images.pexels.com/photos/11350431/pexels-photo-11350431.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
         },
       ];
   return (

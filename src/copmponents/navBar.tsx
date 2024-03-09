@@ -1,12 +1,9 @@
-import React from 'react'
 import { ImFacebook } from "react-icons/im";
 import { ImLinkedin2 } from "react-icons/im";
 import { TbBrandTwitterFilled } from "react-icons/tb";
 import { SiInstagram } from "react-icons/si";
 import { GrLocation } from "react-icons/gr";
 import { MdOutlineMail } from "react-icons/md";
-import { FiPhoneCall } from "react-icons/fi";
-import { Link } from 'react-router-dom';
 const NavBar = () => {
     return (
         <div className='w-full hidden lg:flex mt-20'>

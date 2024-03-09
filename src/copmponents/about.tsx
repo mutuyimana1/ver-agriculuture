@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaEnvira } from "react-icons/fa6";
 import { CgCommunity } from "react-icons/cg";
 import { FaConnectdevelop } from "react-icons/fa";

@@ -4,8 +4,6 @@ import Gallery from "../copmponents/gallery"
 import Header from "../copmponents/header"
 import NavBar from "../copmponents/navBar"
 import Head from "../copmponents/new"
-import AboutUs from "./aboutUs"
-import ContactUs from "./contactUs"
 
 const HomePage = () => {
   return (

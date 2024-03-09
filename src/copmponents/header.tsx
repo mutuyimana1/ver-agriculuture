@@ -1,13 +1,5 @@
-import React from 'react'
 import { Carousel } from 'antd';
 import "./header.css"
-const contentStyle: React.CSSProperties = {
-    height: '160px',
-    color: '#fff',
-    lineHeight: '160px',
-    textAlign: 'center',
-    // background: '#364d79',
-  };
 const Header = () => {
   return (
     <div className='w-full flex'>

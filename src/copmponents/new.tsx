@@ -1,9 +1,7 @@
 // Header.js
-import React from 'react';
 import Navbar from './nav'; 
 import { useWindowWidthAndHeight } from './customHooks';
 import SmallScreensNavbar from './smallScreenNavBar';
-import { Link } from 'react-router-dom';
 
 const Head = () =>{
     // use our custom hook to get the the window size

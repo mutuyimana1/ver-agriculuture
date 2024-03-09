@@ -1,4 +1,3 @@
-import React from 'react'
 import NavBar from '../copmponents/navBar'
 import "./gallery.css"
 import Footer from '../copmponents/footer'

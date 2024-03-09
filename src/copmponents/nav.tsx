@@ -1,10 +1,9 @@
-import React from 'react';
 import { FiPhoneCall } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 interface navProps{
-    navClass:any,
-    linkClassName:any,
+    navClass?:any,
+    linkClassName?:any,
     onClick?:any,
 }
 const Nav = ({navClass ,linkClassName}:navProps) =>(
